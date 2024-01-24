@@ -1,0 +1,6 @@
+dotmatrix.c:136:6:Dot_Matrix_Init	2
+dotmatrix.c:146:6:clear_dotmatrix_buffer	3
+dotmatrix.c:157:6:set_dotmatrix_buffer	12
+dotmatrix.c:189:6:control_dotmatrix	14
+dotmatrix.c:276:6:write_column_data	3
+dotmatrix.c:286:6:write_row_data	3

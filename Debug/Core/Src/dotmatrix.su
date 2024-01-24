@@ -1,0 +1,6 @@
+../Core/Src/dotmatrix.c:136:6:Dot_Matrix_Init	16	static
+../Core/Src/dotmatrix.c:146:6:clear_dotmatrix_buffer	16	static
+../Core/Src/dotmatrix.c:157:6:set_dotmatrix_buffer	32	static
+../Core/Src/dotmatrix.c:189:6:control_dotmatrix	40	static
+../Core/Src/dotmatrix.c:276:6:write_column_data	24	static
+../Core/Src/dotmatrix.c:286:6:write_row_data	24	static

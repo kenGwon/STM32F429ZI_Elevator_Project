@@ -1,0 +1,17 @@
+main.c:153:1:__io_putchar	1
+main.c:169:5:main	1
+main.c:274:6:SystemClock_Config	3
+main.c:320:13:MX_ADC1_Init	3
+main.c:372:13:MX_ETH_Init	2
+main.c:421:13:MX_I2C1_Init	4
+main.c:469:13:MX_TIM11_Init	2
+main.c:500:13:MX_USART3_UART_Init	2
+main.c:533:13:MX_USB_OTG_FS_PCD_Init	2
+main.c:568:13:MX_GPIO_Init	1
+main.c:689:6:StartDefaultTask	1
+main.c:711:6:ctrl_stepmotor	1
+main.c:730:6:ctrl_dotmatrix	1
+main.c:749:6:polling_btn	8
+main.c:821:6:polling_btn_floor	5
+main.c:865:6:HAL_TIM_PeriodElapsedCallback	2
+main.c:882:6:Error_Handler	1

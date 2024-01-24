@@ -1,0 +1,13 @@
+elevator_os.c:19:6:elevator_init	1
+elevator_os.c:38:6:elevator_terminate	1
+elevator_os.c:47:6:elevator_processing	1
+elevator_os.c:53:6:polling_button	6
+elevator_os.c:92:6:run_hw	5
+elevator_os.c:122:6:set_curr_status	1
+elevator_os.c:127:6:set_curr_floor	1
+elevator_os.c:132:6:set_target_floor	1
+elevator_os.c:137:9:get_curr_status	1
+elevator_os.c:142:9:get_curr_floor	1
+elevator_os.c:148:9:get_target_floor	1
+elevator_os.c:155:6:display_floor_info	1
+elevator_os.c:170:6:display_alert_info	1

@@ -1,0 +1,2 @@
+../Core/Src/callback_management.c:8:6:HAL_GPIO_EXTI_Callback	24	static
+../Core/Src/callback_management.c:61:6:HAL_ADC_ConvCpltCallback	16	static
