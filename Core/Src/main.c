@@ -759,7 +759,7 @@ void polling_btn(void *argument)
 		else if (Get_Button(BTN1_GPIO_Port, BTN1_Pin, 1) == BUTTON_PRESS) // ?��?�� �???겠다?�� ?��?��?��?��
 		{
 	        HAL_GPIO_TogglePin(GPIOB, LD2_Pin);
-	        uint32_t flags = osEventFlagsWait(select_floorHandle, SELECT_FLOOR_FLAG, osFlagsWaitAny, osWaitForever);
+	        uint32_t flags = osEventFlagsWait(select_floorHandle, SELECT_FLOOR_FLAG, osFlagsWaitAny, 3000);
 	        HAL_GPIO_TogglePin(GPIOB, LD2_Pin);
 
 	        if (flags & SELECT_FLOOR_FLAG) {
@@ -783,7 +783,7 @@ void polling_btn(void *argument)
 		else if (Get_Button(BTN2_GPIO_Port, BTN2_Pin, 2) == BUTTON_PRESS) // ?��?�� �???겠다?�� ?��?��?��?��
 		{
 	        HAL_GPIO_TogglePin(GPIOB, LD3_Pin);
-			uint32_t flags = osEventFlagsWait(select_floorHandle, SELECT_FLOOR_FLAG, osFlagsWaitAny, osWaitForever);
+			uint32_t flags = osEventFlagsWait(select_floorHandle, SELECT_FLOOR_FLAG, osFlagsWaitAny, 3000);
 			HAL_GPIO_TogglePin(GPIOB, LD3_Pin);
 
 	        if (flags & SELECT_FLOOR_FLAG) {

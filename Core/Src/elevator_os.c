@@ -11,8 +11,6 @@ static uint8_t curr_floor;
 static uint8_t target_floor;
 
 
-
-
 /*
  *
  */
