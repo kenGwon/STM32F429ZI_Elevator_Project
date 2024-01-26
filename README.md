@@ -16,7 +16,7 @@ RTOS 프로그래밍 프로젝트: 엘레베이터 만들기
 [![프로젝트 발표자료](./project_ppt_thumbnail.png)](https://docs.google.com/presentation/d/1qnjRN9fbaiyaQ3oiGFFJK4BcpVHI1VP_nHUHaA-1oCM/edit?usp=sharing)<br>
 <br>
 
-<!-- ## 프로젝트 발표 영상
+## 프로젝트 발표 영상
 (아래 이미지를 클릭하시면 유튜브로 이동합니다.)<br>
-[![프로젝트 발표자료](http://img.youtube.com/vi/McwAPPPH1eI/0.jpg)](https://youtu.be/McwAPPPH1eI)<br>
-<br> -->
+[![프로젝트 발표자료](http://img.youtube.com/vi/EVyC0jMdom0/0.jpg)](https://youtu.be/EVyC0jMdom0)<br>
+<br>
